@@ -74,6 +74,10 @@ Contains syllabus of AI, copied from RGPV website.
 Contains syllabus of OOPM, copied from RGPV website.
 <li>Includes two buttons for navigation.</li>
 
+<br><br>
+
+<h2>📌 Disclaimer</h2>
+This project is for learning and demonstration purposes only.
 <br><br><hr>
 
 <pre>
